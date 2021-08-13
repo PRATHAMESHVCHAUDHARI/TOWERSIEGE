@@ -1,4 +1,4 @@
-class Hex {
+class Polygon {
 
     constructor(x,y,width,height) {
 
