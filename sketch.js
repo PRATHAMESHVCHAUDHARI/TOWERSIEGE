@@ -10,7 +10,7 @@ var box1, box2, box3, box4, box5, box6, box7, box8, box9, box10, box11, box12, b
 var py1, py2, py3, py4, py5;
 
 function setup() {
-  createCanvas(1300, 400);
+  createCanvas(1260, 400);
   engine = Engine.create();
   world = engine.world;
   ground = new Ground(750, 375, 1500, 50);
